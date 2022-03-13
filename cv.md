@@ -1,5 +1,5 @@
 # Elina Dzichkouskaya
-====
+
 
 # My Contact Info
 
@@ -11,7 +11,7 @@
 
 # About Me
 
-I am a computer science student and I have an unconventional way of thinking that helps me create good websites. I worked freelance as a web designer, so I understand well how to please the client. I am easy to learn, sociable and always try to do everything down to the smallest detail. I am a purposeful person, ready to develop my skills day by day.
+I'm a computer science student and I have an unconventional way of thinking that helps me create good websites. I worked freelance as a web designer, so I understand well how to please the client. I'm easy to learn, sociable and always try to do everything down to the smallest detail. I'm a purposeful person, ready to develop my skills day by day.
 
 
 # Skills
@@ -49,6 +49,12 @@ function createPhoneNumber(numbers) {
 ```
 
 
+# Experience
+
+* **Freelance Frontend Developer & Web-design**
+    * I worked as a freelancer, as well as making websites for my own [portfolio](https://www.behance.net/ellimayy)
+
+
 # Education
 
 * **Collegium Da Vinci**
@@ -57,7 +63,9 @@ function createPhoneNumber(numbers) {
     * I graduated from high school with advanced study of mathematics and Russian language
 
 
-# Experience
+# Languages
 
-* **Freelance Frontend Developer & Web-design**
-    * I worked as a freelancer, as well as making websites for my own [portfolio](https://www.behance.net/ellimayy)
+* **Polish** - Upper-intermidiate __B2__
+* **English** - Intermidiate __B1__ (I'm learning English by studying at a university and by myself)
+* **Russian** - Native
+* **Belarusian** - Native 
