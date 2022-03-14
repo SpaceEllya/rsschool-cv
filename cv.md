@@ -19,7 +19,7 @@ I'm a computer science student and I have an unconventional way of thinking that
 * HTML
 * CSS (Bootstrap, BEM)
 * JavaScript (Fundamentals, ES6+, DOM)
-* React JS, Redux (intermediate level knowledge)
+* React JS, Redux (basic knowledge)
 * Git (remote service GitHub)
 * С#, Python, Golang - (basic knowledge)
 * PostgreSQL (intermediate level knowledge)
