@@ -1,2 +1,2 @@
 # rsschool-cv
-https://SpaceEllya.github.io/rsschool-cv/cv
+https://SpaceEllya.github.io/rsschool-cv/
